@@ -4,7 +4,7 @@ The [Blazor Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar
 
 Example: https://blazor.syncfusion.com/demos/sidebar/default-functionalities?theme=bootstrap5 
 
-Documentation:  https://blazor.syncfusion.com/documentation/sidebar/getting-started
+Documentation: https://blazor.syncfusion.com/documentation/sidebar/getting-started
 
 
 ## Project pre-requisites
