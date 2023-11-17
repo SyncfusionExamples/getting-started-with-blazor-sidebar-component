@@ -18,7 +18,7 @@ Auto closing the Blazor Sidebar component’s content allows the main content ar
 
 Different types of slide-out content in the Blazor Sidebar component give users the flexibility to view or hide content over or above the main content by pushing, sliding, or overlaying it.
 
-## HTML side content position
+### HTML side content position
 
 The Blazor Sidebar component positions its content to the left or right side of the main content area. This option allows the placement of two sidebars in a page, both at the left and right, to show primary and secondary content simultaneously.
 
@@ -50,7 +50,6 @@ When you [dock](https://blazor.syncfusion.com/documentation/sidebar/docking-side
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples)
-
 
 ## About Syncfusion Blazor Components
 The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Sidebar, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples).
