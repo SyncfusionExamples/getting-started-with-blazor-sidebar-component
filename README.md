@@ -1,17 +1,35 @@
-# How to Add the Blazor Sidebar Component
+## How to Add the Blazor Sidebar Component
 
-The [Blazor Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples) is an expandable and collapsible component that typically acts as a side container to place primary or secondary content alongside the main content. A quick start Blazor project that shows how to create and configure the Syncfusion Blazor Sidebar component in a Blazor Web app. This project also includes a code snippet to open and close the sidebar manually, how to change the sidebar position and finally how to integrate the List View component into Sidebar.
+**Repository Description**  
+This repository contains a quick-start sample demonstrating how to add and configure the Syncfusion **Blazor Sidebar** component in a Blazor Web application, including common customization scenarios and integrations.
+
+The [Blazor Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples) is an expandable and collapsible component that typically acts as a side container to place primary or secondary content alongside the main content. This project shows how to create and configure the Sidebar in a Blazor Web app, including manually opening and closing the sidebar, changing its position, and integrating the ListView component.
+
+## Project Overview
+This sample application demonstrates the core capabilities of the Syncfusion Blazor Sidebar component in a real Blazor Web application scenario. It focuses on responsive layouts, animated transitions, docking behavior, and sidebar interaction patterns commonly used in dashboards and enterprise applications.
+
+## Features
+- Responsive sidebar behavior for improved content readability  
+- Multiple transition and animation styles  
+- Left and right sidebar positioning  
+- Toggle sidebar using buttons or hamburger menus  
+- Docked sidebar mode with icon-based navigation  
+- ListView integration inside the Sidebar
 
 ## Prerequisites
+- Visual Studio 2022  
+- Basic knowledge of Blazor and .NET
 
-* Visual Studio 2022
+## Documentation Links
+- General Syncfusion Documentation: https://help.syncfusion.com/  
+- Blazor Documentation Introduction: https://blazor.syncfusion.com/documentation/introduction  
+- Blazor Sidebar Component Documentation: https://blazor.syncfusion.com/documentation/sidebar/getting-started
 
-## How to run the project
-
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+## Installation
+1. Clone or download this repository to your local machine.  
+2. Open the solution file using **Visual Studio 2022**.  
+3. Restore NuGet packages by rebuilding the solution.  
+4. Run the project using **Ctrl+F5** or the Debug menu.
 
 ## Features and Benefits
 
@@ -23,7 +41,7 @@ Auto closing the Blazor Sidebar component’s content allows the main content ar
 
 Different types of slide-out content in the Blazor Sidebar component give users the flexibility to view or hide content over or above the main content by pushing, sliding, or overlaying it.
 
-## HTML side content position
+### HTML side content position
 
 The Blazor Sidebar component positions its content to the left or right side of the main content area. This option allows the placement of two sidebars in a page, both at the left and right, to show primary and secondary content simultaneously.
 
@@ -34,6 +52,11 @@ Bind custom actions to any element (hamburger menu or buttons) to toggle the Bla
 ### Dock the HTML slide panel content
 
 When you [dock](https://blazor.syncfusion.com/documentation/sidebar/docking-sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples) the side content to give the main content more space, the navigation text is represented as a shortened view of icons.
+
+## Troubleshooting
+- Ensure all NuGet packages are restored successfully  
+- Verify Visual Studio 2022 is up to date  
+- Refer to the Blazor Sidebar documentation for setup guidance
 
 ## Related links
 [Learn More about Blazor Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples)
