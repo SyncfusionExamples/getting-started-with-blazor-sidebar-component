@@ -1,6 +1,5 @@
 ## How to Add the Blazor Sidebar Component
 
-**Repository Description**  
 This repository contains a quick-start sample demonstrating how to add and configure the Syncfusion **Blazor Sidebar** component in a Blazor Web application, including common customization scenarios and integrations.
 
 The [Blazor Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar?utm_source=github&utm_medium=listing&utm_campaign=blazor-sidebar-github-samples) is an expandable and collapsible component that typically acts as a side container to place primary or secondary content alongside the main content. This project shows how to create and configure the Sidebar in a Blazor Web app, including manually opening and closing the sidebar, changing its position, and integrating the ListView component.
@@ -18,7 +17,6 @@ This sample application demonstrates the core capabilities of the Syncfusion Bla
 
 ## Prerequisites
 - Visual Studio 2022  
-- Basic knowledge of Blazor and .NET
 
 ## Documentation Links
 - General Syncfusion Documentation: https://help.syncfusion.com/  
